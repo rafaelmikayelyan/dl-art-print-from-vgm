@@ -1,5 +1,5 @@
 # Download Art Prints from Van Gogh Museum
-A simple web scraper to get an art print from VGM with given link (in different resolutions).
+A simple web scraper to get an art print from VGM with given a link from a collection section (in different resolutions).
 
 ### Walkthrough
 1. User pastes a link to the print:
