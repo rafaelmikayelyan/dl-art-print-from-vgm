@@ -6,5 +6,7 @@ A simple web scraper to get an art print from VGM with given link (in different 
   * BeautifulSoup searches the page for 'data-id' and 'data-base-path' attributes
   * 'data-id' leads to a JSON with addresses to image tiles at different resolutions
 
-2. User chooses resolution and name:
-  * cv2 concatinates appripreate tiles together into the final image
+2. User chooses resolution and a name:
+  * urlib downloads appropriate tiles
+  * cv2 concatinates these tiles together into the final image
+  * shutil deletes temporary files
