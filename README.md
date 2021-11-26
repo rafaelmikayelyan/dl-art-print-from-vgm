@@ -19,7 +19,7 @@ git clone https://github.com/rafaelmikayelyan/dl-art-print-from-vgm.git
 ```
 pip install beautifulsoup4
 ```
- * beautifulsoup4:
+ * opencv:
 ```
 pip install opencv-python
 ```
