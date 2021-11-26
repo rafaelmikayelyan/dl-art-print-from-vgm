@@ -3,7 +3,7 @@ A simple web scraper to get an art print from VGM with a given a link from a col
 
 ## Installation (macOS)
 
-1. Open Terminal (press <kbd>Command</kbd>+<kbd>Space</kbd>, type ``` terminal ``` press <kbd>Return</kbd>
+1. Open Terminal (press <kbd>Command</kbd>+<kbd>Space</kbd>, type ``` terminal ``` press <kbd>Return</kbd>).
 2. Install [Homebrew](https://brew.sh).
 3. Install git:
 ```
