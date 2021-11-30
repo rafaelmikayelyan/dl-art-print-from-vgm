@@ -38,3 +38,8 @@ python3 ~/dl-art-print-from-vgm/main.py
   * urlib downloads appropriate tiles
   * cv2 concatinates these tiles together into the final image
   * shutil deletes temporary files
+
+
+## ToDo
+- Pass image directly to cv2
+- Add scraper for 'collection' section
