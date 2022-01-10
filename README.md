@@ -1,11 +1,20 @@
 # Download Art Prints from Van Gogh Museum
 A simple web scraper to get an art print from VGM with a given a link from a collection section (in different resolutions).
 
+## Requirements
+
+* Python 3.xx, with:
+  * beautifulsoup4
+  * opencv
+* git (optional)
+
 ## Installation (macOS)
 
+Git installation is optional - you can simply download this repository (green CODE button above) and skip to step 5.
+
 1. Open Terminal (press <kbd>Command</kbd>+<kbd>Space</kbd>, type ``` terminal ``` press <kbd>Return</kbd>).
-2. Install [Homebrew](https://brew.sh).
-3. Install git:
+3. Install [Homebrew](https://brew.sh).
+4. Install git:
 ```
 brew install git
 ```
@@ -14,7 +23,7 @@ brew install git
 git clone https://github.com/rafaelmikayelyan/dl-art-print-from-vgm.git
 ```
 5. Install [Python 3.xx](https://realpython.com/installing-python/)
-6. Install necessary libraries:
+6. Install necessary libraries (in terminal, step 1):
  * beautifulsoup4:
 ```
 pip install beautifulsoup4
