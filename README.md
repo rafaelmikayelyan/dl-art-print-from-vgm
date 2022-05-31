@@ -6,6 +6,7 @@ A simple web scraper to get an art print from VGM with a given a link from a col
 * Python 3.xx, with:
   * beautifulsoup4
   * opencv
+  * requests
 * git (optional)
 
 ## Installation (macOS)
