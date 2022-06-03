@@ -16,7 +16,7 @@ A simple web scraper to get an art print from VGM using a link from a collection
 ```
 python3 --version
 ```
-If you get an error 'No such file or directory", then install Python 3.xx [here](https://realpython.com/installing-python/).
+If you get an error 'No such file or directory", then install [Python 3.xx](https://realpython.com/installing-python/).
 
 3. Install necessary libraries (see requiremets):
 
