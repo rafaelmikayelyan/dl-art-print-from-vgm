@@ -51,5 +51,4 @@ python3 ~/Downloads/dl-art-print-from-vgm/main.py
 ## ToDo
 - Pass image directly to cv2
 - Add scraper for 'collection' section
-- Add GUI
-- Add executable
+- Improve UI
