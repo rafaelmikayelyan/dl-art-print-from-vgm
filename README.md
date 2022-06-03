@@ -38,7 +38,7 @@ python3 ~/Downloads/dl-art-print-from-vgm/main.py
 ```
 
 ## Walkthrough
-1. User pastes a link to the print:
+1. User pastes a link of the page with the print:
   * BeautifulSoup searches the page for 'data-id' and 'data-base-path' attributes
   * 'data-id' leads to a JSON with addresses to image tiles at different resolutions
 
