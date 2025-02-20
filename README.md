@@ -1,6 +1,8 @@
 # Download Art Prints from Van Gogh Museum
 A simple web scraper to get an art print from VGM using a link from a collection section of the museum (with choice of different resolutions if available).
 
+![CLI screenshot](https://v1.rafaelmikayelyan.dev/images/print-dl.png)
+
 ## Requirements
 
 * [Python 3.xx](https://realpython.com/installing-python/), with:
